@@ -7,7 +7,7 @@
 ```
 [dependencies]
 qrcode = "0.6.0"
-image = "0.18"`
+image = "0.18"
 ```
 
 
