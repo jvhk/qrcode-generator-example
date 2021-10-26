@@ -11,4 +11,4 @@ image = "0.18"`
 ```
 
 
-[Documentation QrCODE]( https://docs.rs/qrcode/0.12.0/qrcode/ )
+[Documentation QrCODE]( https://docs.rs/qrcode/0.6.0/qrcode/index.html )
